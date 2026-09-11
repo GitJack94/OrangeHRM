@@ -1,4 +1,5 @@
-# OrangeHRM Playwright Tests
+# OrangeHRM Playwright Tests 
+# Author Jackson S 
 
 End-to-end tests for the OrangeHRM demo site using Playwright and JavaScript.
 
